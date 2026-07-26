@@ -1,0 +1,414 @@
+admission_date,diagnosis_description,patient_count,avg_age
+2024-01-08,Chronic Kidney Disease,1,52
+2024-06-06,Hypertension,1,37
+2024-01-28,Chronic Kidney Disease,1,56
+2024-01-10,Coronary Artery Disease,1,33
+2024-01-22,Diabetes Mellitus,1,32
+2024-02-07,Stroke,1,45
+2024-02-18,Stroke,1,44
+2024-01-14,Hyperlipidemia,1,39
+2024-03-06,Asthma,1,41
+2024-03-11,Chronic Kidney Disease,1,53
+2024-03-27,Hypertension,1,31
+2024-04-26,Heart Failure,1,47
+2024-05-29,Myocardial Infarction,1,41
+2024-04-04,Diabetes Mellitus,1,39
+2024-05-02,Chronic Kidney Disease,1,52
+2024-05-07,Hypertension,1,30
+2024-05-15,Coronary Artery Disease,1,29
+2024-01-17,Chronic Kidney Disease,1,31
+2024-06-25,Asthma,1,34
+2024-05-09,Myocardial Infarction,1,44
+2024-03-21,Heart Failure,1,50
+2024-07-10,Coronary Artery Disease,1,37
+2024-02-16,Diabetes Mellitus,1,39
+2024-07-07,Myocardial Infarction,1,30
+2024-06-07,Hypertension,1,51
+2024-03-22,Myocardial Infarction,1,28
+2024-01-26,Chronic Obstructive Pulmonary Disease,1,29
+2024-03-26,Coronary Artery Disease,1,42
+2024-07-11,Diabetes Mellitus,1,48
+2024-06-01,Chronic Obstructive Pulmonary Disease,1,39
+2024-06-02,Hyperlipidemia,1,32
+2024-05-31,Diabetes Mellitus,1,46
+2024-01-03,Chronic Obstructive Pulmonary Disease,1,29
+2024-04-14,Coronary Artery Disease,1,46
+2024-06-17,Coronary Artery Disease,1,50
+2024-05-14,Hyperlipidemia,1,50
+2024-04-08,Chronic Kidney Disease,1,46
+2024-04-29,Myocardial Infarction,1,39
+2024-06-11,Asthma,1,37
+2024-07-15,Stroke,1,46
+2024-04-09,Hypertension,1,53
+2024-01-21,Myocardial Infarction,1,44
+2024-04-16,Heart Failure,1,51
+2024-05-24,Hyperlipidemia,1,52
+2024-07-03,Chronic Obstructive Pulmonary Disease,2,50
+2024-07-17,Asthma,1,44
+2024-01-31,Heart Failure,1,46
+2024-04-19,Hypertension,1,39
+2024-03-29,Myocardial Infarction,1,47
+2024-01-29,Asthma,1,34
+2024-02-09,Asthma,1,29
+2024-01-25,Hypertension,1,51
+2024-03-05,Diabetes Mellitus,1,36
+2024-04-28,Asthma,1,43
+2024-03-18,Chronic Obstructive Pulmonary Disease,1,39
+2024-05-27,Coronary Artery Disease,1,34
+2024-03-08,Chronic Obstructive Pulmonary Disease,1,51
+2024-02-19,Chronic Kidney Disease,1,51
+2024-03-03,Hypertension,1,31
+2024-03-12,Heart Failure,1,34
+2024-04-07,Heart Failure,1,28
+2024-06-08,Hypertension,1,42
+2024-03-31,Chronic Kidney Disease,1,34
+2024-05-20,Asthma,1,43
+2024-01-13,Diabetes Mellitus,1,28
+2024-02-13,Hypertension,1,37
+2024-04-22,Coronary Artery Disease,1,36
+2024-04-30,Coronary Artery Disease,1,46
+2024-05-23,Stroke,1,39
+2024-04-20,Chronic Kidney Disease,1,30
+2024-02-03,Diabetes Mellitus,1,47
+2024-02-23,Coronary Artery Disease,1,38
+2024-06-21,Hyperlipidemia,1,48
+2024-02-10,Chronic Kidney Disease,1,36
+2024-04-15,Asthma,1,39
+2024-01-23,Hyperlipidemia,1,47
+2024-03-30,Heart Failure,1,36
+2024-03-28,Asthma,1,50
+2024-01-30,Myocardial Infarction,1,42
+2024-06-16,Hyperlipidemia,1,34
+2024-05-26,Heart Failure,1,48
+2024-02-11,Heart Failure,1,50
+2024-04-23,Diabetes Mellitus,1,31
+2024-03-02,Coronary Artery Disease,1,46
+2024-01-27,Stroke,1,40
+2024-04-06,Coronary Artery Disease,1,41
+2024-04-13,Myocardial Infarction,1,29
+2024-02-17,Chronic Obstructive Pulmonary Disease,1,34
+2024-02-08,Coronary Artery Disease,1,48
+2024-04-01,Hyperlipidemia,1,45
+2024-07-14,Myocardial Infarction,1,50
+2024-04-10,Hyperlipidemia,1,35
+2024-05-28,Hypertension,1,50
+2024-06-05,Coronary Artery Disease,1,44
+2024-01-04,Asthma,1,54
+2024-05-12,Chronic Kidney Disease,1,48
+2024-02-22,Hypertension,1,42
+2024-01-02,Diabetes Mellitus,1,34
+2024-02-12,Hyperlipidemia,1,52
+2024-03-20,Chronic Kidney Disease,1,33
+2024-05-10,Chronic Obstructive Pulmonary Disease,1,33
+2024-02-29,Chronic Kidney Disease,1,52
+2024-01-09,Hyperlipidemia,1,37
+2024-04-18,Chronic Obstructive Pulmonary Disease,1,34
+2024-01-16,Coronary Artery Disease,1,43
+2024-06-09,Diabetes Mellitus,1,33
+2024-06-03,Stroke,1,50
+2024-06-23,Coronary Artery Disease,1,52
+2024-03-25,Hyperlipidemia,1,53
+2024-05-03,Diabetes Mellitus,1,41
+2024-02-25,Myocardial Infarction,1,50
+2024-03-01,Hyperlipidemia,1,33
+2024-06-27,Heart Failure,1,29
+2024-07-01,Coronary Artery Disease,1,33
+2024-06-18,Chronic Obstructive Pulmonary Disease,1,29
+2024-06-19,Myocardial Infarction,1,43
+2024-04-27,Hypertension,1,34
+2024-01-18,Asthma,1,55
+2024-04-11,Chronic Obstructive Pulmonary Disease,1,48
+2024-06-12,Heart Failure,1,52
+2024-01-06,Stroke,1,40
+2024-02-02,Coronary Artery Disease,1,31
+2024-06-26,Stroke,1,50
+2024-02-05,Hypertension,1,38
+2024-04-05,Myocardial Infarction,1,50
+2024-01-15,Hypertension,1,50
+2024-06-10,Chronic Obstructive Pulmonary Disease,1,48
+2024-06-13,Stroke,1,30
+2024-03-13,Myocardial Infarction,1,38
+2024-03-10,Coronary Artery Disease,1,40
+2024-03-16,Hypertension,1,29
+2024-04-12,Stroke,1,40
+2024-05-05,Heart Failure,1,29
+2024-07-04,Stroke,1,35
+2024-05-06,Coronary Artery Disease,1,46
+2024-05-30,Asthma,1,28
+2024-02-20,Heart Failure,1,46
+2024-05-22,Coronary Artery Disease,1,50
+2024-05-01,Chronic Obstructive Pulmonary Disease,1,33
+2024-02-15,Myocardial Infarction,1,41
+2024-03-07,Hyperlipidemia,1,30
+2024-04-02,Coronary Artery Disease,1,52
+2024-07-16,Coronary Artery Disease,1,30
+2024-06-29,Diabetes Mellitus,1,37
+2024-01-01,Hypertension,1,45
+2024-01-07,Myocardial Infarction,1,48
+2024-04-24,Stroke,1,50
+2024-05-17,Myocardial Infarction,1,41
+2024-03-04,Myocardial Infarction,1,49
+2024-01-24,Coronary Artery Disease,1,38
+2024-06-15,Chronic Kidney Disease,1,46
+2024-07-12,Chronic Obstructive Pulmonary Disease,1,34
+2024-05-13,Diabetes Mellitus,1,37
+2024-06-20,Diabetes Mellitus,1,35
+2024-03-15,Hyperlipidemia,1,50
+2024-07-09,Hyperlipidemia,1,29
+2024-04-17,Hyperlipidemia,1,42
+2024-05-25,Diabetes Mellitus,1,30
+2024-07-06,Asthma,1,41
+2024-03-19,Asthma,1,46
+2024-07-02,Hypertension,1,52
+2024-07-13,Hypertension,1,41
+2024-03-14,Diabetes Mellitus,1,45
+2024-06-22,Hypertension,1,30
+2024-02-01,Hyperlipidemia,1,50
+2024-06-24,Chronic Kidney Disease,1,41
+2024-02-04,Chronic Obstructive Pulmonary Disease,1,53
+2024-02-28,Heart Failure,1,37
+2024-04-03,Chronic Obstructive Pulmonary Disease,1,30
+2024-06-14,Myocardial Infarction,1,39
+2024-01-12,Myocardial Infarction,1,46
+2024-04-25,Hyperlipidemia,1,29
+2024-06-30,Hyperlipidemia,1,46
+2024-05-16,Hypertension,1,46
+2024-02-21,Hyperlipidemia,1,35
+2024-04-21,Myocardial Infarction,1,53
+2024-07-05,Chronic Kidney Disease,1,44
+2024-01-19,Stroke,1,49
+2024-01-20,Heart Failure,1,30
+2024-02-06,Myocardial Infarction,1,39
+2024-05-18,Heart Failure,1,30
+2024-03-23,Stroke,1,44
+2024-06-04,Chronic Kidney Disease,1,29
+2024-03-09,Stroke,1,37
+2024-03-17,Coronary Artery Disease,1,42
+2024-03-24,Diabetes Mellitus,1,39
+2024-05-11,Stroke,1,52
+2024-02-24,Asthma,1,40
+2024-06-28,Myocardial Infarction,1,44
+2024-07-18,Chronic Kidney Disease,1,33
+2024-05-04,Hyperlipidemia,1,38
+2024-07-08,Heart Failure,1,46
+2024-05-19,Chronic Obstructive Pulmonary Disease,1,35
+2024-01-11,Chronic Obstructive Pulmonary Disease,1,41
+2024-05-21,Chronic Kidney Disease,1,29
+2024-02-26,Diabetes Mellitus,1,29
+2024-05-08,Asthma,1,39
+2024-02-14,Coronary Artery Disease,1,55
+2024-01-05,Heart Failure,1,61
+2024-02-27,Chronic Obstructive Pulmonary Disease,1,44
+2024-08-26,Coronary Artery Disease,1,48
+2024-07-30,Myocardial Infarction,1,50
+2024-11-24,Asthma,1,50
+2025-01-31,Stroke,1,50
+2024-08-17,Myocardial Infarction,1,30
+2025-01-02,Hyperlipidemia,1,34
+2024-11-09,Diabetes Mellitus,1,50
+2025-01-01,Chronic Kidney Disease,1,29
+2024-10-20,Chronic Obstructive Pulmonary Disease,1,46
+2024-11-11,Hyperlipidemia,1,43
+2024-12-13,Coronary Artery Disease,1,52
+2025-01-14,Myocardial Infarction,1,30
+2025-01-27,Diabetes Mellitus,1,29
+2024-09-28,Heart Failure,1,34
+2024-10-08,Myocardial Infarction,1,46
+2025-01-25,Hyperlipidemia,1,46
+2024-09-29,Myocardial Infarction,1,50
+2024-11-04,Chronic Obstructive Pulmonary Disease,1,50
+2025-01-07,Hyperlipidemia,1,41
+2025-01-19,Chronic Obstructive Pulmonary Disease,1,41
+2024-10-31,Coronary Artery Disease,1,50
+2024-12-04,Heart Failure,1,30
+2025-02-02,Asthma,1,41
+2024-08-20,Coronary Artery Disease,1,39
+2024-10-26,Hypertension,1,29
+2024-09-13,Diabetes Mellitus,1,37
+2024-09-20,Myocardial Infarction,1,50
+2024-12-05,Chronic Obstructive Pulmonary Disease,1,43
+2024-08-06,Stroke,1,50
+2024-07-20,Diabetes Mellitus,1,50
+2024-11-27,Stroke,1,37
+2025-01-04,Chronic Obstructive Pulmonary Disease,1,30
+2024-07-31,Diabetes Mellitus,1,41
+2024-11-26,Chronic Obstructive Pulmonary Disease,1,46
+2024-09-25,Stroke,1,50
+2024-10-12,Coronary Artery Disease,1,44
+2025-01-28,Chronic Obstructive Pulmonary Disease,1,34
+2024-08-31,Hypertension,1,46
+2024-10-24,Heart Failure,1,34
+2025-01-16,Hyperlipidemia,1,46
+2024-10-13,Hypertension,1,37
+2024-12-24,Hypertension,1,46
+2025-01-24,Heart Failure,1,34
+2024-10-22,Myocardial Infarction,1,29
+2024-09-11,Asthma,1,29
+2024-09-19,Hypertension,1,44
+2024-07-22,Asthma,1,46
+2024-12-25,Hypertension,1,34
+2024-09-14,Chronic Obstructive Pulmonary Disease,1,50
+2024-09-15,Heart Failure,1,34
+2025-01-22,Asthma,1,50
+2024-12-16,Asthma,1,50
+2024-12-27,Chronic Obstructive Pulmonary Disease,1,29
+2024-08-02,Hypertension,1,34
+2024-08-22,Chronic Obstructive Pulmonary Disease,1,50
+2024-11-01,Asthma,1,46
+2024-12-23,Hypertension,1,29
+2024-10-25,Chronic Kidney Disease,1,41
+2024-12-28,Asthma,1,41
+2024-07-19,Hypertension,1,29
+2024-09-26,Coronary Artery Disease,1,30
+2024-11-21,Heart Failure,1,52
+2025-01-05,Myocardial Infarction,1,50
+2024-07-28,Coronary Artery Disease,1,52
+2024-09-27,Chronic Kidney Disease,1,46
+2024-09-08,Hyperlipidemia,1,30
+2025-01-21,Chronic Kidney Disease,1,46
+2024-09-04,Chronic Obstructive Pulmonary Disease,1,50
+2025-01-11,Asthma,1,41
+2025-01-09,Coronary Artery Disease,1,50
+2024-07-26,Chronic Kidney Disease,1,44
+2024-10-19,Coronary Artery Disease,1,33
+2024-11-12,Heart Failure,1,46
+2024-08-21,Diabetes Mellitus,1,34
+2024-08-25,Stroke,1,33
+2024-10-03,Coronary Artery Disease,1,50
+2024-09-02,Myocardial Infarction,1,29
+2024-11-13,Hypertension,1,37
+2024-12-26,Diabetes Mellitus,1,50
+2024-08-24,Myocardial Infarction,1,46
+2024-09-22,Asthma,1,46
+2024-09-16,Chronic Kidney Disease,1,39
+2024-07-25,Myocardial Infarction,1,29
+2024-10-10,Diabetes Mellitus,1,50
+2025-01-03,Coronary Artery Disease,1,46
+2024-08-14,Stroke,1,41
+2024-08-18,Heart Failure,1,47
+2024-12-22,Coronary Artery Disease,1,50
+2024-11-07,Myocardial Infarction,1,46
+2024-09-07,Heart Failure,1,46
+2024-12-10,Hyperlipidemia,1,37
+2025-02-01,Coronary Artery Disease,1,29
+2024-12-14,Hypertension,1,29
+2024-09-10,Coronary Artery Disease,1,50
+2024-11-18,Chronic Kidney Disease,1,50
+2024-10-27,Hyperlipidemia,1,44
+2024-12-08,Coronary Artery Disease,1,34
+2024-10-21,Diabetes Mellitus,1,48
+2024-07-27,Hyperlipidemia,1,33
+2024-09-17,Hyperlipidemia,1,52
+2024-09-05,Stroke,1,30
+2024-12-17,Diabetes Mellitus,1,29
+2024-11-05,Hypertension,1,41
+2025-01-06,Diabetes Mellitus,1,29
+2024-10-28,Chronic Obstructive Pulmonary Disease,1,52
+2024-10-29,Stroke,1,34
+2024-09-03,Diabetes Mellitus,1,43
+2024-12-06,Asthma,1,50
+2025-01-26,Coronary Artery Disease,1,50
+2024-11-19,Diabetes Mellitus,1,29
+2024-08-08,Myocardial Infarction,1,43
+2024-08-16,Asthma,1,50
+2024-12-07,Chronic Kidney Disease,1,29
+2024-12-19,Hyperlipidemia,1,46
+2024-07-29,Chronic Obstructive Pulmonary Disease,1,30
+2024-08-10,Hyperlipidemia,1,34
+2024-09-30,Diabetes Mellitus,1,29
+2025-01-08,Hypertension,1,34
+2024-10-04,Chronic Obstructive Pulmonary Disease,1,29
+2024-08-28,Chronic Kidney Disease,1,29
+2024-09-12,Myocardial Infarction,1,46
+2024-10-17,Chronic Kidney Disease,1,41
+2024-11-10,Stroke,1,29
+2024-10-11,Hyperlipidemia,1,29
+2025-01-15,Diabetes Mellitus,1,34
+2024-11-02,Heart Failure,1,30
+2024-12-29,Heart Failure,1,30
+2024-12-21,Chronic Kidney Disease,1,41
+2024-07-23,Heart Failure,1,39
+2024-10-07,Heart Failure,1,52
+2025-01-13,Heart Failure,1,50
+2024-10-05,Asthma,1,41
+2025-01-12,Stroke,1,46
+2024-08-09,Diabetes Mellitus,1,52
+2024-09-09,Hypertension,1,41
+2024-11-23,Hypertension,1,34
+2024-12-09,Stroke,1,46
+2025-01-29,Hypertension,1,46
+2024-10-06,Chronic Kidney Disease,1,34
+2025-01-18,Hypertension,1,29
+2024-09-24,Chronic Obstructive Pulmonary Disease,1,48
+2024-07-21,Chronic Obstructive Pulmonary Disease,1,34
+2024-10-09,Stroke,1,30
+2024-10-14,Asthma,1,50
+2024-11-20,Hyperlipidemia,1,46
+2024-11-25,Myocardial Infarction,1,29
+2025-01-23,Myocardial Infarction,1,29
+2024-10-18,Hyperlipidemia,1,50
+2024-08-19,Hyperlipidemia,1,52
+2024-12-18,Chronic Obstructive Pulmonary Disease,1,34
+2024-12-31,Myocardial Infarction,1,50
+2024-08-15,Chronic Kidney Disease,1,35
+2024-10-30,Myocardial Infarction,1,29
+2024-09-18,Coronary Artery Disease,1,30
+2024-11-03,Hyperlipidemia,1,37
+2024-08-12,Hypertension,1,50
+2025-01-17,Coronary Artery Disease,1,50
+2025-01-10,Chronic Kidney Disease,1,29
+2024-08-01,Hyperlipidemia,1,46
+2024-11-15,Myocardial Infarction,1,30
+2024-11-30,Hyperlipidemia,1,41
+2024-09-06,Chronic Kidney Disease,1,34
+2024-10-15,Myocardial Infarction,1,34
+2024-10-02,Hypertension,1,46
+2024-08-04,Chronic Kidney Disease,1,44
+2024-12-11,Diabetes Mellitus,1,50
+2024-08-27,Asthma,1,41
+2024-09-21,Diabetes Mellitus,1,29
+2024-11-08,Coronary Artery Disease,1,34
+2024-08-30,Hyperlipidemia,1,35
+2025-01-30,Myocardial Infarction,1,30
+2024-12-15,Myocardial Infarction,1,41
+2024-11-06,Chronic Kidney Disease,1,29
+2024-10-01,Hyperlipidemia,1,41
+2024-11-29,Diabetes Mellitus,1,29
+2024-12-30,Stroke,1,46
+2024-10-16,Heart Failure,1,29
+2024-10-23,Coronary Artery Disease,1,50
+2024-12-01,Coronary Artery Disease,1,34
+2024-09-23,Hyperlipidemia,1,33
+2024-12-03,Myocardial Infarction,1,50
+2024-07-24,Stroke,1,50
+2025-01-20,Stroke,1,30
+2024-11-17,Chronic Obstructive Pulmonary Disease,1,41
+2025-02-03,Chronic Kidney Disease,1,34
+2024-08-23,Hypertension,1,29
+2024-12-02,Hypertension,1,46
+2024-12-20,Stroke,1,30
+2024-11-16,Coronary Artery Disease,1,34
+2024-11-28,Chronic Kidney Disease,1,50
+2024-08-11,Coronary Artery Disease,1,46
+2024-08-07,Heart Failure,1,30
+2024-08-13,Chronic Obstructive Pulmonary Disease,1,29
+2024-11-22,Coronary Artery Disease,1,30
+2024-09-01,Coronary Artery Disease,1,52
+2024-08-05,Asthma,1,37
+2024-08-29,Heart Failure,1,50
+2024-11-14,Asthma,1,50
+2024-12-12,Heart Failure,1,30
+2024-08-03,Coronary Artery Disease,1,29
+2024-08-05,Myocardial Infarction,1,31
+2024-08-28,Hyperlipidemia,1,45
+2024-08-14,Myocardial Infarction,1,42
+2024-07-21,Myocardial Infarction,1,45
+2024-07-08,Chronic Kidney Disease,1,48
+2024-07-18,Asthma,1,48
+2024-07-06,Stroke,1,42
+2024-07-28,Chronic Kidney Disease,1,48
+2024-08-17,Stroke,1,36
+2024-08-21,Hypertension,1,50
+2024-08-03,Chronic Obstructive Pulmonary Disease,1,29
+2024-07-11,Chronic Obstructive Pulmonary Disease,1,45
+2024-08-09,Chronic Kidney Disease,1,45
