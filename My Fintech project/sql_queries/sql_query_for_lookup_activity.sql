@@ -1,0 +1,11 @@
+-- Use this Query in Lookup activity
+
+SELECT 
+    TABLE_SCHEMA AS SchemaName,
+    TABLE_NAME AS TableName
+FROM 
+    INFORMATION_SCHEMA.TABLES
+WHERE 
+    TABLE_TYPE = 'BASE TABLE' and TABLE_SCHEMA = 'fintech'
+ORDER BY 
+    SchemaName, TableName;
