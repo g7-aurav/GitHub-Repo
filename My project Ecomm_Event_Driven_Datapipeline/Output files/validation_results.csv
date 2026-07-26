@@ -1,0 +1,34 @@
+count,description,severity,validation_type,validation_timestamp,batch_id
+0,Orders without valid customers,NONE,orphaned_orders,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Customers without any orders,NONE,orphaned_customers,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Orders with unreasonable amounts,NONE,unreasonable_orders,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Orders with invalid products,NONE,orphaned_orders_products,2025-12-08T11:46:16.156793Z,20251208_114615
+20,Orders with price mismatches,MEDIUM,price_mismatch,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Orders without shipping information,NONE,orders_without_shipping,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Shipping with unreasonable costs,NONE,unreasonable_shipping,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Products without inventory,NONE,products_without_inventory,2025-12-08T11:46:16.156793Z,20251208_114615
+1,Premium customers with low-value orders,LOW,low_value_premium_orders,2025-12-08T11:46:16.156793Z,20251208_114615
+9,Orders outside business hours,LOW,orders_outside_hours,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Orders for discontinued products,NONE,discontinued_orders,2025-12-08T11:46:16.156793Z,20251208_114615
+0,Orders without valid customers,NONE,orphaned_orders,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Customers without any orders,NONE,orphaned_customers,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders with unreasonable amounts,NONE,unreasonable_orders,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders with invalid products,NONE,orphaned_orders_products,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders with price mismatches,NONE,price_mismatch,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders without shipping information,NONE,orders_without_shipping,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Shipping with unreasonable costs,NONE,unreasonable_shipping,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Products without inventory,NONE,products_without_inventory,2025-12-08T11:40:17.743627Z,20251208_114017
+1,Premium customers with low-value orders,LOW,low_value_premium_orders,2025-12-08T11:40:17.743627Z,20251208_114017
+9,Orders outside business hours,LOW,orders_outside_hours,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders for discontinued products,NONE,discontinued_orders,2025-12-08T11:40:17.743627Z,20251208_114017
+0,Orders without valid customers,NONE,orphaned_orders,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Customers without any orders,NONE,orphaned_customers,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders with unreasonable amounts,NONE,unreasonable_orders,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders with invalid products,NONE,orphaned_orders_products,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders with price mismatches,NONE,price_mismatch,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders without shipping information,NONE,orders_without_shipping,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Shipping with unreasonable costs,NONE,unreasonable_shipping,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Products without inventory,NONE,products_without_inventory,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Premium customers with low-value orders,NONE,low_value_premium_orders,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders outside business hours,NONE,orders_outside_hours,2025-12-08T11:27:16.781598Z,20251208_112715
+0,Orders for discontinued products,NONE,discontinued_orders,2025-12-08T11:27:16.781598Z,20251208_112715
