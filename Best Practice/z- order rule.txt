@@ -1,0 +1,39 @@
+# Silver table has 400 files after 30 days of data
+# Query: WHERE city='JAIPUR' AND ingestion_date='2026-05-23'
+
+# ─── Without ZORDER ──────────────────────────────────────────────
+# Delta scans all 400 files to find JAIPUR rows
+# Files read : 400
+# Data scanned: ~50 GB
+# Query time : ~4 minutes ❌
+
+# ─── With ZORDER BY (city, product_id) ───────────────────────────
+# Delta checks min/max stats in _delta_log:
+#   File001: city range = [AGRA → DELHI]     ← skip, no JAIPUR
+#   File002: city range = [HYDERABAD → MUMBAI]← skip
+#   File003: city range = [JAIPUR → JAIPUR]  ← READ THIS ✅
+# Files read : 12 (only JAIPUR files)
+# Data scanned: ~1.5 GB
+# Query time : ~18 seconds ✅
+
+====================================================================
+
+====================================================================
+# Rule 1: ZORDER max 2-3 columns (more = diminishing returns)
+OPTIMIZE delta.`/mnt/silver/sales/orders/`
+WHERE ingestion_date = '2026-05-23'
+ZORDER BY (city, product_id)   -- ✅ good
+
+ZORDER BY (city, product_id, category, payment_mode, state)  -- ❌ too many
+
+# Rule 2: Always partition by date first, then ZORDER within
+# Partition → separates files by date (folder-level)
+# ZORDER   → sorts within that date's files (file-level)
+
+# Rule 3: Only ZORDER today's new partition, not whole table
+WHERE ingestion_date = '2026-05-23'   -- ✅ fast: only new files
+-- (no WHERE clause)                  -- ❌ slow: rescans all history
+
+# Rule 4: Run VACUUM weekly to remove old files ZORDER replaced
+VACUUM delta.`/mnt/silver/sales/orders/` RETAIN 168 HOURS
+
