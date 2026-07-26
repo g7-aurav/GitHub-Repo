@@ -1,0 +1,11 @@
+diagnosis_description,patient_count,avg_age,min_age,max_age,unique_gender_count
+Diabetes Mellitus,38,38.10526315789474,28,52,2
+Chronic Kidney Disease,41,40.51219512195122,29,56,2
+Stroke,34,41.205882352941174,29,52,2
+Heart Failure,36,40.19444444444444,28,61,2
+Chronic Obstructive Pulmonary Disease,41,39.58536585365854,29,53,2
+Hypertension,43,39.51162790697674,29,53,2
+Myocardial Infarction,49,40.59183673469388,28,53,2
+Asthma,35,42.97142857142857,28,55,2
+Hyperlipidemia,45,41.044444444444444,29,53,2
+Coronary Artery Disease,52,41.88461538461539,29,55,2

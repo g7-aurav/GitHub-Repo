@@ -1,0 +1,3 @@
+gender,patient_count,avg_age,min_age,max_age,unique_diagnosis_count
+F,214,41.12149532710281,28,61,10
+M,200,39.985,28,56,10
